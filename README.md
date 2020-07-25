@@ -11,10 +11,10 @@ I made a quiz app that tests general knowledge.
 ![Completed Project](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif?raw=true)
 
 ## What I learned
-* Modularising your code into separate classes.
+* Modularising code into separate classes.
 * Dart classes and objects.
 * Using class constructors.
-* Extracting Widgets to refactor your code.
+* Extracting Widgets to refactor code.
 * Private and public modifiers in Dart.
 * How to use Dart lists.
 * The difference between var, const and final.
